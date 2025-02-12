@@ -1,0 +1,24 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/category-ai-cn
+
+# Behavior: domain
+
+payload:
+- "+.baichuan-ai.com"
+- "+.botvip.cn"
+- "+.chatglm.cn"
+- "+.doubao.com"
+- "+.hailuoai.com"
+- "+.hunyuan.tencent.com"
+- "+.liblib.art"
+- "+.marscode.cn"
+- "+.minimaxi.com"
+- "+.moonshot.cn"
+- "+.qianwen.aliyun.com"
+- "+.rwkv.cn"
+- "+.rwkv.com"
+- "+.tiangong.cn"
+- "+.tongyi.aliyun.com"
+- "+.xinghuo.xfyun.cn"
+- "+.xingyeai.com"
+- "+.yiyan.baidu.com"
+- "+.zhipuai.cn"
