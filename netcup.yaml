@@ -1,0 +1,12 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/netcup
+
+# Behavior: domain
+
+payload:
+- "+.customercontrolpanel.de"
+- "+.netcup-news.de"
+- "+.netcup-sonderangebote.de"
+- "+.netcup.com"
+- "+.netcup.de"
+- "+.netcup.eu"
+- "+.netcup.net"

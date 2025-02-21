@@ -1,0 +1,9 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/uc
+
+# Behavior: domain
+
+payload:
+- "+.uc.cn"
+- "+.uc123.com"
+- "+.ucweb.com"
+- "+.uczzd.cn"
