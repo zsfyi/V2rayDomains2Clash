@@ -1,0 +1,19 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/netcup
+
+# Behavior: domain
+
+payload:
+- "+.customercontrolpanel.de"
+- "+.dnsserver1.de"
+- "+.dnsserver2.de"
+- "+.luckysrv.de"
+- "+.netcup-news.de"
+- "+.netcup-sonderangebote.de"
+- "+.netcup-wiki.de"
+- "+.netcup.com"
+- "+.netcup.de"
+- "+.netcup.eu"
+- "+.netcup.net"
+- "+.servercontrolpanel.de"
+- "+.supersrv.de"
+- "+.yourvserver.net"

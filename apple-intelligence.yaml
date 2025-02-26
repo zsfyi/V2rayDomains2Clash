@@ -1,0 +1,7 @@
+# Generated from https://github.com/v2fly/domain-list-community/tree/master/data/apple-intelligence
+
+# Behavior: domain
+
+payload:
+- "apple-relay.apple.com"
+- "apple-relay.mask.apple-dns.net"
